@@ -1,0 +1,15 @@
+.app{
+  margin-left: 30%;
+  margin-top: 5%;
+}
+
+.copy{
+  margin-bottom: 0;
+  background-color: cadetblue;
+  padding-top: 15px;
+  padding-bottom: 15px;
+}
+
+.card-layout{
+  background-color: gray;
+}
